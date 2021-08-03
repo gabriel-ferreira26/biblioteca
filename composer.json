@@ -1,0 +1,15 @@
+{
+    "name": "gafer/biblioteca",
+    "authors": [
+        {
+            "name": "Gabriel Augusto Ferreira",
+            "email": "gaferreira2000@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "view\\":"app/"
+        }
+    }
+}

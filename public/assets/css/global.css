@@ -1,0 +1,20 @@
+:root {
+    --background-color: #dddddd;
+    --primary-color: #CBA76B;
+    --secondary-color: #a8a193;
+    --black-color: #000;
+    --spotlight-color: #ff0000;
+    --dark-blue: #121d27;
+    --prisma-back: url('../assets/prisma-back.svg');
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
